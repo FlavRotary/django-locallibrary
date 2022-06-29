@@ -17,3 +17,10 @@ Tutorial objectives:
 - Deploy your application to production.
 
 Link for the full walkthrough: https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Tutorial_local_library_website
+
+Prerequisites:
+- Python 3.9.x
+- Django 4.0.x
+- PostgreSQL 14:
+  i. Serverr Name: locallibrary
+  ii. Port: 5432
